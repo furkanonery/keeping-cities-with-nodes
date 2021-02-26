@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577620407 source:c:\users\casper\desktop\ciftyonlu3.proje\ciftyonlubagliproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577616807 source:c:\users\casper\desktop\furkan\ciftyonlu3.proje\ciftyonlubagliproje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
