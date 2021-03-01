@@ -25,11 +25,6 @@ void degerListele(int);
 void Sirala();
 int komsuMu(char[],char[]);
 
-struct komsu
-{
-    int komsuPlaka;
-    struct komsu *front;
-};
 struct sehir
 {
     char cografiBolge[3];
